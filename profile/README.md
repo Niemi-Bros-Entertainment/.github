@@ -1,7 +1,3 @@
-## Hi there 👋
-
-<!--
-
 Hello, there!
 
 We are two brothers, Andrew and Jonathan, who just happen to make video games. Our focus is to make games inspired by ones we have enjoyed playing since our childhood. 
@@ -14,5 +10,3 @@ We have been working on The Arcane Relics for quite some time and have released 
 
 If you're interested in what we're doing, we'd appreciate some 'coffee':
 https://www.buymeacoffee.com/niemibros
-
--->
