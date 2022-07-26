@@ -1,6 +1,6 @@
-##Greetings!
+## Greetings!
 
-We are two brothers, Andrew and Jonathan, who just happen to make video games. Our focus is to make games inspired by ones we have enjoyed playing since our childhood. 
+We are brothers, Andrew and Jonathan, who just happen to make video games. Our focus is to make games inspired by ones we have enjoyed playing since our childhood. 
 
 You may know us as the developers of such games:
 - The Arcane Relics (TAR), a fantasy-medieval themed RPG.
